@@ -13,9 +13,13 @@ Nguồn dataset:
 
 Cấu trúc thư mục:
 /img/ # Hình ảnh, biểu đồ minh họa
+
 /model/ # File mô hình huấn luyện  
+
 /weight/ # File đã huấn luyện
+
 /tiensuly/
+
 README.md # Tài liệu hướng dẫn
 
 Cảm ơn Thầy/Cô và các bạn!!!
