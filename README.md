@@ -6,6 +6,7 @@ Dữ liệu được thu ở các trạm đo trên toàn thế giới với tổ
 + LinearRegession
 
 Dữ liệu gốc dược thu thập từ https://github.com/taohan10200/WEATHER-5K
+
 Nguồn dataset:
 + Data Thô: https://hkustconnect-my.sharepoint.com/:u:/r/personal/thanad_connect_ust_hk/Documents/research_project/WEATHER_5k/OpenSourced/WEATHER-5K.zip?csf=1&web=1&e=U4THrm
 + Data clean: https://drive.google.com/drive/folders/1wP9DaqkY2BTB27QlRERZvGhvdGz9H3mE?usp=sharing
